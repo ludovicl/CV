@@ -144,7 +144,7 @@
 	\smartdiagram[bubble diagram]{
         \textbf{Back end}\\\textbf{Dev},
         \textbf{BDD}\\\textbf{relationnelle},
-        \textbf{AWS/DevObs},
+        \textbf{AWS/DevOps},
         \textbf{Sys admin}\\\textbf{Debian},
         \textbf{~~~GIT~~~},
         \textbf{Tests}\\\textbf{Intégration}\\\textbf{continue}
